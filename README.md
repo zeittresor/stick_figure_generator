@@ -8,7 +8,7 @@ Each image contains:
 <br><br>
 * a stick‑figure on the left (black background, red joints, limb segments
   in unique colours that are fixed across all images).
-  
+<br>
 * the image number on the right (if enabled).
 <br><br>
 <img width="400" height="400" alt="image_0001" src="https://github.com/user-attachments/assets/8de849a7-cf9a-4c47-889e-d2d681c479c3" />
