@@ -11,4 +11,4 @@ Each image contains:
 <br>
 * a stick‑figure on the left (black background, red joints, limb segments
   in unique colours that are fixed across all images).
-  * the image number on the right (if enabled).
+* the image number on the right (if enabled).
